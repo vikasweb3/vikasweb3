@@ -10,7 +10,7 @@
 
 ## 👋 Introduction
 
-I’m **Arman Alam**, a passionate **Web Developer** focused on building modern, responsive, and user-friendly web applications.  
+I’m **Vikas**, a passionate **Web Developer** focused on building modern, responsive, and user-friendly web applications.  
 I aim to grow into a **top-tier full stack developer** and create impactful digital products.
 
 ---
